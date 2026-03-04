@@ -3,3 +3,6 @@ cosmic.agentmem
 /__pycache__
 README.md
 requirements.txt
+.vscode
+agent_graph.json
+agent_raw_memories.md
